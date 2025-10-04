@@ -51,13 +51,21 @@ The agent uses **Google Gemini (PaLM)** inside n8n to analyze project documentat
 
 ---
 
-## 📝 Example Query
+## 📝 Examples
+
+### Query
 
 ```
 Analyze the carbon footprint of this project:
 https://www.archdaily.com.br/br/776950/casa-vila-matilde-terra-e-tuma-arquitetos
 ```
 
-## 📝 Example Output
+### Watch Demo Video
+
+[![Watch the demo](vid.png)](https://youtu.be/9Ds2yJqUkAc)
+
+
+
+### Output
 
 ![output](./output.jpg)
